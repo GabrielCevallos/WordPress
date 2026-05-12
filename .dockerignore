@@ -1,0 +1,12 @@
+.git
+.gitignore
+.DS_Store
+.dockerignore
+*.log
+.env
+docker-compose.yml
+node_modules
+.next
+.venv
+__pycache__
+.pytest_cache
